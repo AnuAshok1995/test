@@ -1,0 +1,14 @@
+
+done < "$name"
+	var=$((var + 1))  
+       	echo " the number of characters in line number $var is $count "
+  count=$(echo "$line" | wc -c)
+do
+while read line 
+
+var=1  
+
+read name
+echo "Enter the filename:"
+
+#!/bin/bash
